@@ -64,7 +64,7 @@ run (name of the file): - It runs a supported file that RPL (READABLE Programmin
 
 -- User interactions:
 
-input 'string'- It will create an input where you can type text. For example: input 'Say something: ', it will display 'Say something: ' and you'll be able to type anything you want.
+input 'Say something: '- It will create an input where you can type text. For example: input 'Say something: ', it will display 'Say something: ' and you'll be able to type anything you want.
 
 -- Explanation and Helping:
 
